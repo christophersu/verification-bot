@@ -1,0 +1,9 @@
+# Google account username & pass
+GSPREAD_USERNAME = ''
+GSPREAD_PASSWORD = ''
+GSPREAD_SHEET = ''
+
+# Reddit
+SUBREDDIT = ''
+REDDIT_USERNAME_I = ''
+REDDIT_PASSWORD_I = ''

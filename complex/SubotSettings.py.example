@@ -1,0 +1,15 @@
+# Settings
+USER_AGENT = ''
+SUBREDDIT = ''
+CHECKED_JSON = "checked_users.json"
+VERIFIED_JSON = "verified_users.json"
+MISC_SAVE_JSON = "misc_save.json"
+
+# Google
+GSPREAD_USERNAME = ''
+GSPREAD_PASSWORD = ''
+GSPREAD_SHEET = ''
+
+# Reddit
+REDDIT_USERNAME = ''
+REDDIT_PASSWORD = ''
