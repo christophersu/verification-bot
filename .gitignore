@@ -1,5 +1,6 @@
 # private info
 SubotSettings.py
+AccountDetails.py
 *.json
 *.pyc
 *.log
